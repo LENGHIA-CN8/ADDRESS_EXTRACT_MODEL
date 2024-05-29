@@ -1,0 +1,5 @@
+model: merge_lora_t5
+device: cuda:1
+tokenizer: google/mt5-base
+CHAT_ID: 1855242001
+BOT_TOKEN: 6252126055:AAFpypLYeeopt6W6J8YCSwVb7NczL8ExLys
